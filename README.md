@@ -6,6 +6,44 @@ Version control is an essential skill for developers to master, and Git is by fa
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
 
+Disallowed Raw HTML tags
+---
+
+- title
+- textarea
+- style
+- xmp
+- iframe
+- noembed
+- noframes
+- script
+- plaintext
+
+Mermaid
+---
+Flow charts, maps, etc. are supported. Check docs for others.
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+```
+
+
+Alerts
+---
+
+> [!NOTE]
+> A note
+
+> [!IMPORTANT]
+> Very important
+
+> [!CAUTION]
+> A caution
+
+> [!WARNING]
+> Warning
 
 Collapsed
 ---
