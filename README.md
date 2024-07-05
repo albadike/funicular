@@ -5,6 +5,32 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
+
+
+Collapsed
+---
+
+<details>
+    <summary>collapsed</summary>
+
+    # Header
+    This is a copy of the collapsed header.
+</details>
+
+
+
+
+Check & Unchecked list
+---
+- [x] Some special GitHub markdown additions. They work best in PR/Issue, comment boxes, etc. for now.
+- [x] Drag, drop and paste is now supported on github markdown.
+    + [ ] Emoji with :
+    + [x] Escape with \
+- [ ] Start typing # and you get a list of issues, PR, etc. and @ shows people available for PR review. e.g.
+    + [ ] rgb
+    + [ ] hex
+    + [ ] (#FABCDE) or `#FABCDE`
+
 Tables
 ------
 
